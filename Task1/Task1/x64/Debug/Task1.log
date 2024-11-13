@@ -1,0 +1,5 @@
+﻿  Render.cpp
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task1\Render.cpp(18,23): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+  (компиляция исходного файла "/Render.cpp")
+  
+  Task1.vcxproj -> C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task1\x64\Debug\Task1.exe
