@@ -30,12 +30,11 @@
               "Title": "glWinApp.h",
               "DocumentMoniker": "C:\\Users\\Oleg\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043A\u0438\\OpenGL\\Project_opengl\\Task2\\Task2\\glWinApp.h",
               "RelativeDocumentMoniker": "Task2\\glWinApp.h",
-              "ToolTip": "C:\\Users\\Oleg\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043A\u0438\\OpenGL\\Project_opengl\\Task2\\Task2\\glWinApp.h*",
-              "RelativeToolTip": "Task2\\glWinApp.h*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Oleg\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043A\u0438\\OpenGL\\Project_opengl\\Task2\\Task2\\glWinApp.h",
+              "RelativeToolTip": "Task2\\glWinApp.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-20T14:51:39.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T14:51:39.64Z"
             },
             {
               "$type": "Document",
@@ -43,12 +42,11 @@
               "Title": "EventHandlers.cpp",
               "DocumentMoniker": "C:\\Users\\Oleg\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043A\u0438\\OpenGL\\Project_opengl\\Task2\\Task2\\EventHandlers.cpp",
               "RelativeDocumentMoniker": "Task2\\EventHandlers.cpp",
-              "ToolTip": "C:\\Users\\Oleg\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043A\u0438\\OpenGL\\Project_opengl\\Task2\\Task2\\EventHandlers.cpp*",
-              "RelativeToolTip": "Task2\\EventHandlers.cpp*",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIoAAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Oleg\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043A\u0438\\OpenGL\\Project_opengl\\Task2\\Task2\\EventHandlers.cpp",
+              "RelativeToolTip": "Task2\\EventHandlers.cpp",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAHYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-20T14:50:49.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T14:50:49.193Z"
             },
             {
               "$type": "Document",
@@ -56,9 +54,9 @@
               "Title": "Render.cpp",
               "DocumentMoniker": "C:\\Users\\Oleg\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043A\u0438\\OpenGL\\Project_opengl\\Task2\\Task2\\Render.cpp",
               "RelativeDocumentMoniker": "Task2\\Render.cpp",
-              "ToolTip": "C:\\Users\\Oleg\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043A\u0438\\OpenGL\\Project_opengl\\Task2\\Task2\\Render.cpp*",
-              "RelativeToolTip": "Task2\\Render.cpp*",
-              "ViewState": "AgIAAFIBAAAAAAAAAAAAAG8BAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Oleg\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043A\u0438\\OpenGL\\Project_opengl\\Task2\\Task2\\Render.cpp",
+              "RelativeToolTip": "Task2\\Render.cpp",
+              "ViewState": "AgIAANwAAAAAAAAAAAAQwPAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-20T14:50:44.846Z",
               "EditorCaption": ""
