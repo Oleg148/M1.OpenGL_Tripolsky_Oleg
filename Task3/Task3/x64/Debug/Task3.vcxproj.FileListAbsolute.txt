@@ -1,1 +1,2 @@
 C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\x64\Debug\Task3.exe
+E:\Лабораторки\OpenGL\Project_opengl\Task3\Task3\x64\Debug\Task3.exe

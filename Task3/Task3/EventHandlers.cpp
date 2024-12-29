@@ -133,6 +133,10 @@ void OnLButtonDown(HWND hwnd, BOOL fDoubleClick, int x, int y, UINT keyFlags) {
     InvalidateRect(hwnd, 0, 1);
 }
 
+void OnSize(HWND hwnd, UINT state, int cx, int cy) {
+
+}
+
 //   Инструкция по использованию файла windowsx.h и макросов для обработки сообщений
 //
 //   1. Выяснить, какое сообщение Windows отвечает за событие, требующее обработки.
@@ -172,7 +176,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
         HANDLE_MSG(hWnd, WM_DESTROY, OnDestroy);
         HANDLE_MSG(hWnd, WM_PAINT, OnPaint);
         HANDLE_MSG(hWnd, WM_LBUTTONDOWN, OnLButtonDown);
-        //		HANDLE_MSG(hWnd, WM_SIZE,	 OnSize);  // см. инструкцию выше
+        HANDLE_MSG(hWnd, WM_SIZE,	 OnSize);  // см. инструкцию выше
         HANDLE_MSG(hWnd, WM_COMMAND, OnMenu);
     default:
         return DefWindowProc(hWnd, message, wParam, lParam);
