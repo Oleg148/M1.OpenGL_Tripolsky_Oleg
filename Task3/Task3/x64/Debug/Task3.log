@@ -1,0 +1,49 @@
+﻿  pch.cpp
+  glWinApp.cpp
+  EventHandlers.cpp
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\EventHandlers.cpp(98,31): warning C4244: =: преобразование "LRESULT" в "BOOL", возможна потеря данных
+  (компиляция исходного файла "/EventHandlers.cpp")
+  
+  Render.cpp
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\Render.cpp(12,18): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "/Render.cpp")
+  
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\Render.cpp(37,16): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "/Render.cpp")
+  
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\Render.cpp(55,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/Render.cpp")
+  
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\Render.cpp(55,19): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  (компиляция исходного файла "/Render.cpp")
+  
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\Render.cpp(197,23): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+  (компиляция исходного файла "/Render.cpp")
+  
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\Render.cpp(355,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Render.cpp")
+  
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\Render.cpp(356,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/Render.cpp")
+  
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\Render.cpp(357,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Render.cpp")
+  
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\Render.cpp(379,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/Render.cpp")
+  
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\Render.cpp(404,68): warning C4244: аргумент: преобразование "double" в "GLsizei", возможна потеря данных
+  (компиляция исходного файла "/Render.cpp")
+  
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\Render.cpp(404,53): warning C4244: аргумент: преобразование "double" в "GLsizei", возможна потеря данных
+  (компиляция исходного файла "/Render.cpp")
+  
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\Render.cpp(404,38): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+  (компиляция исходного файла "/Render.cpp")
+  
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\Render.cpp(404,22): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+  (компиляция исходного файла "/Render.cpp")
+  
+  Создание кода...
+C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\Task3\Render.cpp(62,1): warning C4172: возвращаемый адрес локальной переменной или временного : arr
+  Task3.vcxproj -> C:\Users\Oleg\Desktop\Лабораторки\OpenGL\Project_opengl\Task3\x64\Debug\Task3.exe
